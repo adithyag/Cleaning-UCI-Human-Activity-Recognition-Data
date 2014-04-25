@@ -1,2 +1,2 @@
 #Code Book
-Please refer to README.md [a relative link](README.md)
+Please refer to [README.md](README.md)
